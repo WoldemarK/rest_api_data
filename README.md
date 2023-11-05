@@ -15,7 +15,7 @@ spring.jpa.database=postgresql
 spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 
 
-2. git clone 
+2. git clone https://github.com/WoldemarK/rest_api_data.git
 3. cd customerdemo
 4. mvn spring-boot:run
 
